@@ -1,6 +1,11 @@
 # SprintSecurityAuth2
 
-This project demonstrates the implementation of OAuth2 authentication in a Spring Boot application using Google and GitHub as identity providers.
+This project demonstrates the implementation of OAuth2 authentication in a Spring Boot application using Google and GitHub as identity providers. OAuth2 is an authorization framework that enables applications to obtain limited access to user accounts on an HTTP service, such as Google or GitHub, on behalf of the user.
+
+Features
+OAuth2 Authentication: Securely authenticate users using their Google or GitHub accounts.
+Spring Boot Integration: Leverage the power of Spring Boot to quickly set up and configure the application.
+Customizable: Easily switch or add more OAuth2 providers as needed.
 
 ## Prerequisites
 
